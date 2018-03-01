@@ -37,7 +37,7 @@
     "color": "~1.0.3",
     "fs-extra": "^2.0.0",
     "lodash": "~4.11.1",
-    "native-base-shoutem-theme": "git+https://github.com:d-labs-dev/theme.git#8fed3bd961a81360eacecbabb34995ebc3dc3039",
+    "native-base-shoutem-theme": "git+https://github.com/d-labs-dev/theme.git#8fed3bd961a81360eacecbabb34995ebc3dc3039",
     "print-message": "^2.1.0",
     "prop-types": "^15.5.10",
     "react-native-drawer": "2.5.0",
